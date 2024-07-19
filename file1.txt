@@ -1,0 +1,3 @@
+hello, there
+i'm learning Git!!
+bye
